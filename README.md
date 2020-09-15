@@ -1,2 +1,2 @@
 # recipe-app
-# Recipe API
+Recipe App description
